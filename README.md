@@ -1,4 +1,4 @@
-# Sistemas Operativos 2025
+# Sistemas Operativos 2026
 ## Rodrigo Cázares Terrazas
 
 ![Vista previa del proyecto](./imagenos.png)
